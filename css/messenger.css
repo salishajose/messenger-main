@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    margin-left: 0px;
+}
+.messnegr-nav{
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.nav-link:hover{
+    /* text-decoration: underline; */
+    border-bottom: 4px solid rgb(0,0,255);
+}
+.h1_head{
+    font-size: 90px;
+     letter-spacing: -6px;
+     line-height: 85px;
+     margin-bottom: 0;
+     text-align: left;
+     background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff5280 84.07%, #ff7061 90.59%);
+     -webkit-background-clip: text;
+	 color: transparent;
+	 display: inline-block;
+	 font-size: 5rem;
+	 line-height: 85px;
+	 padding: 7px 18px 8px;
+	 text-align: left;
+}
+.heading-txt{
+    font-size: 72px;
+    background: -webkit-linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff5280 84.07%, #ff7061 90.59%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    margin-top: 80px;
+}
+.messenger-input{
+    background: rgba(0, 0, 0, .04);
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 1);
+    display: block;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-size: 16px;
+    height: 36px;
+}
+
+.btn{
+    display: inline-flex;
+    align-items: center;
+ }
+ .micro-image{
+    width: 121px;
+	height: 44px;
+    border-radius: 6px;
+}
+.apple-image{
+
+    width: 131px;
+	height: 44px;
+}
+.login-section{
+    display: flex;
+}
+.footer-links{
+    display: flex;
+    align-items: center
+}
+.footer-image{
+    width: 150px;
+    height: 46px;
+}
+.footer-text{
+    font-size: 10px;
+}
+.link-dark{
+    text-decoration: none;
+}
+.footer-container{
+    font-size: 14px;
+}
+.footer-img{    
+    width: 7rem;
+	height: 3rem;
+}
+.meta{
+    font-weight: bold;
+    color: #000;
+    font-size: 13px;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+}
+.trademark{
+    font-size: 13px;
+    color: #000;
+    font-weight: 500;
+}
+.foot-links a{
+    margin: 6px;
+	font-size: 13px;
+	color: #000;
+    text-decoration: none;
+}
